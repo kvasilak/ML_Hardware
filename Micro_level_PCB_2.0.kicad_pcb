@@ -5279,7 +5279,7 @@
   (gr_text "MicroLevel 2.1" (at 144.175 20.1) (layer "B.SilkS") (tstamp 39ae57dc-a6d9-4f1f-a620-b422e37f569c)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Compress" (at 136.225 10.425 90) (layer "B.SilkS") (tstamp 3c8afc01-6489-482d-939e-a7412fda5cae)
+  (gr_text "Compressor" (at 136.125 10.325 90) (layer "B.SilkS") (tstamp 3c8afc01-6489-482d-939e-a7412fda5cae)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Dim" (at 154.725 7.4 90) (layer "B.SilkS") (tstamp 416aea6c-a9d2-4f05-9b13-a0342f9335f9)
